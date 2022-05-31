@@ -52,9 +52,9 @@ To get mona.py up and running under WinDBG, please follow these steps:
 
 Running
 --------
-Open Windbg and execute the following command: `.load pykd.pyd`
+Open Windbg and execute the following command: `.load pykd`
 
-mona commands can the be accessed by running `!py mona`
+mona commands can then be accessed by running `!py -2 mona`
 
 
 Notes
